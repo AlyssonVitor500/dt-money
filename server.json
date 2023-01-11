@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "description": "PC",
+      "price": 15000,
+      "category": "Compra",
+      "type": "outcome",
+      "createdAt": "2023-01-03T14:50:47.223Z",
+      "id": 1
+    },
+    {
+      "description": "Aplicação desenvolvida",
+      "price": 25000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-01-03T14:51:14.164Z",
+      "id": 2
+    },
+    {
+      "description": "Desenvolvendo servidor",
+      "price": 20000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-01-03T14:59:35.886Z",
+      "id": 3
+    },
+    {
+      "description": "Servidor para site",
+      "price": 10000,
+      "category": "Investimento",
+      "type": "outcome",
+      "createdAt": "2023-01-03T19:50:28.519Z",
+      "id": 4
+    },
+    {
+      "description": "Ar condicionado",
+      "price": 2000,
+      "category": "Venda",
+      "type": "outcome",
+      "createdAt": "2023-01-10T15:55:23.826Z",
+      "id": 5
+    }
+  ]
+}
